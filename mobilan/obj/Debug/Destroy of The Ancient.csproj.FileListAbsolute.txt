@@ -1,0 +1,5 @@
+C:\Users\ekaja\Documents\SharpDevelop Projects\mobilan\mobilan\bin\Debug\Destroy of The Ancient.exe
+C:\Users\ekaja\Documents\SharpDevelop Projects\mobilan\mobilan\bin\Debug\Destroy of The Ancient.pdb
+C:\Users\ekaja\Documents\SharpDevelop Projects\mobilan\mobilan\obj\Debug\Destroy of The Ancient.csprojResolveAssemblyReference.cache
+C:\Users\ekaja\Documents\SharpDevelop Projects\mobilan\mobilan\obj\Debug\Destroy of The Ancient.exe
+C:\Users\ekaja\Documents\SharpDevelop Projects\mobilan\mobilan\obj\Debug\Destroy of The Ancient.pdb

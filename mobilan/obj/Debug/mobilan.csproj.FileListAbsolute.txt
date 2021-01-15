@@ -1,0 +1,5 @@
+C:\Users\ekaja\Documents\SharpDevelop Projects\mobilan\mobilan\obj\Debug\mobilan.csprojResolveAssemblyReference.cache
+C:\Users\ekaja\Documents\SharpDevelop Projects\mobilan\mobilan\bin\Debug\mobilan.exe
+C:\Users\ekaja\Documents\SharpDevelop Projects\mobilan\mobilan\bin\Debug\mobilan.pdb
+C:\Users\ekaja\Documents\SharpDevelop Projects\mobilan\mobilan\obj\Debug\mobilan.exe
+C:\Users\ekaja\Documents\SharpDevelop Projects\mobilan\mobilan\obj\Debug\mobilan.pdb
