@@ -1,2 +1,2 @@
-#Destroy of The Ancient
+# Destroy of The Ancient
 A cmd game and not DoTA
